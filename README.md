@@ -1,4 +1,4 @@
-# kadi
+# kadi.html
 محافظة شقراء<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
